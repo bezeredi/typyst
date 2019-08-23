@@ -1,7 +1,7 @@
 Typyst
 ======
-A typewriter service for your Linux system! Have typewriter sounds play with
-each keystroke regardless of which application is running!
+A service that allows your computer to sound like a keyboard without being
+tied to a particular text editor or word processor.
 
 
 #### Installing Dependencies ####
